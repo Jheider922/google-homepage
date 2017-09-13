@@ -1,0 +1,1 @@
+Welcome to the first project guided by The Odin Project, a free open source learning tool developed by a community of devs. This project can be found at The Odin Project's [curriculum](http://www.theodinproject.com/web-development-101/html-css)
